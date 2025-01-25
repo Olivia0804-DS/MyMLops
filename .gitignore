@@ -1,2 +1,6 @@
 *.pem
 __pycache__
+venv
+.env
+*logs/scheduler/
+week2/airflow/logs/

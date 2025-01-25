@@ -1,0 +1,497 @@
+[2025-01-18T07:09:47.405+0000] {processor.py:161} INFO - Started process (PID=15185) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:09:47.406+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:09:47.407+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:09:47.407+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:09:47.427+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:09:47.479+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:09:47.479+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:09:47.490+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:09:47.490+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:09:47.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.114 seconds
+[2025-01-18T07:10:18.252+0000] {processor.py:161} INFO - Started process (PID=15467) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:18.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:10:18.254+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:18.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:18.267+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:18.281+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:18.281+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:10:18.293+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:18.293+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:10:18.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.058 seconds
+[2025-01-18T07:10:48.731+0000] {processor.py:161} INFO - Started process (PID=15749) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:48.733+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:10:48.735+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:48.734+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:48.751+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:10:48.764+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:48.763+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:10:48.785+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:10:48.785+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:10:48.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.085 seconds
+[2025-01-18T07:11:18.917+0000] {processor.py:161} INFO - Started process (PID=16032) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:11:18.917+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:11:18.919+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:11:18.919+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:11:18.930+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:11:18.980+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:11:18.980+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:11:18.989+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:11:18.989+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:11:19.005+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.095 seconds
+[2025-01-18T07:12:31.394+0000] {processor.py:161} INFO - Started process (PID=16175) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:12:31.396+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:12:31.402+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:12:31.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:12:31.430+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:12:31.465+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:12:31.464+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:12:31.507+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:12:31.507+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:12:31.532+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.144 seconds
+[2025-01-18T07:13:01.701+0000] {processor.py:161} INFO - Started process (PID=16457) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:01.702+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:13:01.703+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:01.703+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:01.716+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:01.784+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:01.783+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:13:01.794+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:01.794+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:13:01.806+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.109 seconds
+[2025-01-18T07:13:32.252+0000] {processor.py:161} INFO - Started process (PID=16739) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:32.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:13:32.255+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:32.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:32.268+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:13:32.278+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:32.278+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:13:32.292+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:13:32.291+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:13:32.303+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.056 seconds
+[2025-01-18T07:14:02.742+0000] {processor.py:161} INFO - Started process (PID=17021) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:02.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:14:02.744+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:02.744+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:02.758+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:02.817+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:02.816+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:14:02.832+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:02.832+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:14:02.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.110 seconds
+[2025-01-18T07:14:33.052+0000] {processor.py:161} INFO - Started process (PID=17299) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:33.052+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:14:33.054+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:33.054+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:33.067+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:14:33.076+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:33.076+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:14:33.090+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:14:33.090+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:14:33.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.057 seconds
+[2025-01-18T07:15:03.540+0000] {processor.py:161} INFO - Started process (PID=17557) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:03.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:15:03.542+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:03.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:03.556+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:03.613+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:03.613+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:15:03.623+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:03.623+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:15:03.636+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.103 seconds
+[2025-01-18T07:15:34.381+0000] {processor.py:161} INFO - Started process (PID=17839) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:34.382+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:15:34.384+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:34.384+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:34.399+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:15:34.411+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:34.411+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:15:34.423+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:15:34.422+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:15:34.434+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.057 seconds
+[2025-01-18T07:16:04.960+0000] {processor.py:161} INFO - Started process (PID=18121) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:04.961+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:16:04.962+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:04.962+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:04.975+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:05.034+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:05.034+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:16:05.046+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:05.046+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:16:05.057+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.101 seconds
+[2025-01-18T07:16:35.850+0000] {processor.py:161} INFO - Started process (PID=18403) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:35.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:16:35.853+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:35.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:35.871+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:16:35.885+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:35.885+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:16:35.899+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:16:35.899+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:16:35.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.067 seconds
+[2025-01-18T07:17:06.693+0000] {processor.py:161} INFO - Started process (PID=18685) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:06.694+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:17:06.695+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:06.695+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:06.709+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:06.764+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:06.764+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:17:06.773+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:06.773+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:17:06.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.124 seconds
+[2025-01-18T07:17:37.376+0000] {processor.py:161} INFO - Started process (PID=18968) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:37.377+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:17:37.379+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:37.379+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:37.393+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:17:37.406+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:37.406+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:17:37.419+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:17:37.418+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:17:37.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.060 seconds
+[2025-01-18T07:18:07.637+0000] {processor.py:161} INFO - Started process (PID=19250) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:07.638+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:18:07.640+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:07.640+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:07.653+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:07.710+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:07.710+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:18:07.723+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:07.722+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:18:07.736+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.105 seconds
+[2025-01-18T07:18:37.901+0000] {processor.py:161} INFO - Started process (PID=19532) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:37.903+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:18:37.906+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:37.906+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:37.921+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:18:37.936+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:37.936+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:18:37.949+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:18:37.949+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:18:37.961+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.066 seconds
+[2025-01-18T07:19:08.575+0000] {processor.py:161} INFO - Started process (PID=19814) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:08.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:19:08.579+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:08.579+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:08.599+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:08.668+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:08.668+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:19:08.680+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:08.679+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:19:08.694+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.126 seconds
+[2025-01-18T07:19:39.108+0000] {processor.py:161} INFO - Started process (PID=20097) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:39.109+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:19:39.110+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:39.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:39.125+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:19:39.140+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:39.140+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:19:39.154+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:19:39.154+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:19:39.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.064 seconds
+[2025-01-18T07:20:10.319+0000] {processor.py:161} INFO - Started process (PID=20379) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:10.320+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:20:10.321+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:10.321+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:10.342+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:10.398+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:10.398+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:20:10.408+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:10.408+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:20:10.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.105 seconds
+[2025-01-18T07:20:40.802+0000] {processor.py:161} INFO - Started process (PID=20661) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:40.802+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:20:40.805+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:40.804+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:40.816+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:20:40.827+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:40.827+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:20:40.839+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:20:40.839+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:20:40.858+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.062 seconds
+[2025-01-18T07:21:13.498+0000] {processor.py:161} INFO - Started process (PID=20943) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:13.499+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:21:13.500+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:13.500+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:13.515+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:13.585+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:13.584+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:21:13.596+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:13.596+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:21:13.609+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.117 seconds
+[2025-01-18T07:21:46.258+0000] {processor.py:161} INFO - Started process (PID=21225) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:46.259+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:21:46.260+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:46.260+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:46.273+0000] {processor.py:840} INFO - DAG(s) 'first_dag_with_taskflow_api' retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:21:46.286+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:46.285+0000] {dag.py:3089} INFO - Sync 1 DAGs
+[2025-01-18T07:21:46.299+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:21:46.299+0000] {dag.py:3947} INFO - Setting next_dagrun for first_dag_with_taskflow_api to 2024-07-26 00:00:00+00:00, run_after=2024-07-27 00:00:00+00:00
+[2025-01-18T07:21:46.311+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.058 seconds
+[2025-01-18T07:42:03.696+0000] {processor.py:161} INFO - Started process (PID=177) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:03.698+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:42:03.700+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:42:03.700+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:03.719+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:42:03.716+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:42:03.721+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:03.753+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.062 seconds
+[2025-01-18T07:42:33.992+0000] {processor.py:161} INFO - Started process (PID=444) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:33.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:42:34.007+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:42:34.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:34.029+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:42:34.023+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:42:34.031+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:42:34.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.124 seconds
+[2025-01-18T07:43:04.690+0000] {processor.py:161} INFO - Started process (PID=711) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:04.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:43:04.699+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:43:04.698+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:04.712+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:43:04.710+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:43:04.713+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:04.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.058 seconds
+[2025-01-18T07:43:34.850+0000] {processor.py:161} INFO - Started process (PID=978) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:34.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:43:34.853+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:43:34.853+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:34.868+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:43:34.865+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:43:34.869+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:43:34.886+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.041 seconds
+[2025-01-18T07:44:05.192+0000] {processor.py:161} INFO - Started process (PID=1245) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:05.196+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:44:05.197+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:44:05.197+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:05.209+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:44:05.206+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:44:05.212+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:05.229+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.041 seconds
+[2025-01-18T07:44:35.963+0000] {processor.py:161} INFO - Started process (PID=1512) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:35.964+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:44:35.966+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:44:35.966+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:35.985+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:44:35.982+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:44:35.987+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:44:36.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.051 seconds
+[2025-01-18T07:45:06.231+0000] {processor.py:161} INFO - Started process (PID=1780) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:06.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:45:06.233+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:45:06.233+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:06.242+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:45:06.240+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:45:06.243+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:06.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.035 seconds
+[2025-01-18T07:45:36.845+0000] {processor.py:161} INFO - Started process (PID=2047) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:36.847+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:45:36.852+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:45:36.851+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:36.868+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:45:36.865+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:45:36.868+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:45:36.889+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.051 seconds
+[2025-01-18T07:46:07.838+0000] {processor.py:161} INFO - Started process (PID=2314) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:07.839+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:46:07.842+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:46:07.842+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:07.856+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:46:07.854+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:46:07.857+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:07.879+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.046 seconds
+[2025-01-18T07:46:38.346+0000] {processor.py:161} INFO - Started process (PID=2581) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:38.347+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:46:38.351+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:46:38.351+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:38.364+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:46:38.361+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:46:38.365+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:46:38.384+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.043 seconds
+[2025-01-18T07:47:09.709+0000] {processor.py:161} INFO - Started process (PID=2849) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:09.710+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:47:09.711+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:47:09.711+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:09.723+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:47:09.720+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:47:09.724+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:09.747+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.045 seconds
+[2025-01-18T07:47:40.090+0000] {processor.py:161} INFO - Started process (PID=3116) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:40.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T07:47:40.093+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:47:40.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:40.109+0000] {logging_mixin.py:188} INFO - [2025-01-18T07:47:40.106+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T07:47:40.110+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T07:47:40.129+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.054 seconds
+[2025-01-18T08:02:09.973+0000] {processor.py:161} INFO - Started process (PID=176) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:09.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:02:09.976+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:02:09.976+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:09.990+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:02:09.987+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:02:09.992+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:10.013+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.047 seconds
+[2025-01-18T08:02:40.659+0000] {processor.py:161} INFO - Started process (PID=443) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:40.660+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:02:40.663+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:02:40.663+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:40.678+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:02:40.673+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:02:40.679+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:02:40.698+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.047 seconds
+[2025-01-18T08:03:10.906+0000] {processor.py:161} INFO - Started process (PID=710) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:10.908+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:03:10.911+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:03:10.911+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:10.927+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:03:10.923+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:03:10.928+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:10.947+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.055 seconds
+[2025-01-18T08:03:41.654+0000] {processor.py:161} INFO - Started process (PID=977) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:41.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:03:41.657+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:03:41.657+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:41.688+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:03:41.685+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:03:41.689+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:03:41.703+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.059 seconds
+[2025-01-18T08:04:11.833+0000] {processor.py:161} INFO - Started process (PID=1244) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:04:11.834+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:04:11.836+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:04:11.835+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:04:11.849+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:04:11.846+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:04:11.850+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:04:11.867+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.039 seconds
+[2025-01-18T08:05:55.470+0000] {processor.py:161} INFO - Started process (PID=175) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:05:55.472+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:05:55.473+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:05:55.473+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:05:55.485+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:05:55.483+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:05:55.486+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:05:55.512+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.048 seconds
+[2025-01-18T08:06:26.279+0000] {processor.py:161} INFO - Started process (PID=436) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:26.280+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:06:26.282+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:06:26.282+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:26.292+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:06:26.289+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:06:26.292+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:26.305+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.034 seconds
+[2025-01-18T08:06:57.108+0000] {processor.py:161} INFO - Started process (PID=709) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:57.108+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:06:57.110+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:06:57.110+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:57.120+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:06:57.118+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:06:57.122+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:06:57.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.032 seconds
+[2025-01-18T08:07:27.256+0000] {processor.py:161} INFO - Started process (PID=970) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:27.257+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:07:27.259+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:07:27.258+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:27.273+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:07:27.270+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:07:27.274+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:27.294+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.044 seconds
+[2025-01-18T08:07:57.863+0000] {processor.py:161} INFO - Started process (PID=1237) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:57.864+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:07:57.866+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:07:57.866+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:57.876+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:07:57.874+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:07:57.877+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:07:57.890+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.033 seconds
+[2025-01-18T08:08:28.189+0000] {processor.py:161} INFO - Started process (PID=1503) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:28.190+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:08:28.193+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:08:28.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:28.209+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:08:28.205+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:08:28.210+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:28.231+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.049 seconds
+[2025-01-18T08:08:58.341+0000] {processor.py:161} INFO - Started process (PID=1770) to work on /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:58.343+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/first_dag_py_iris.py for tasks to queue
+[2025-01-18T08:08:58.346+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:08:58.345+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:58.360+0000] {logging_mixin.py:188} INFO - [2025-01-18T08:08:58.357+0000] {dagbag.py:355} ERROR - Failed to import: /opt/airflow/dags/first_dag_py_iris.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 351, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 995, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/first_dag_py_iris.py", line 3, in <module>
+    from sklearn.datasets import load_iris
+ModuleNotFoundError: No module named 'sklearn'
+[2025-01-18T08:08:58.361+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/first_dag_py_iris.py
+[2025-01-18T08:08:58.378+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/first_dag_py_iris.py took 0.044 seconds
