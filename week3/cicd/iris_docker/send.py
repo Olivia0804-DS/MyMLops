@@ -2,8 +2,8 @@ import requests
 import json
 
 url = "http://localhost:8000/predict"
-url = "http://18.144.72.37:8000/predict"
-url_health ="http://18.144.72.37:8000/health"
+url = "http://54.144.25.61:8000/predict"
+url_health ="http://54.144.25.61:8000/health"
 data = {
     "sepal_length":"0.1",
     "sepal_width":"0.2",
