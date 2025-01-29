@@ -40,3 +40,8 @@ def predict_iris_species(data: IrisData):
 @app.get("/health")
 def health():
     return {"status": "ok"}
+
+# Add a root endpoint
+@app.get("/")
+def root():
+    return {"message": "Welcome to the Iris Prediction API! Use /predict to make predictions."}
